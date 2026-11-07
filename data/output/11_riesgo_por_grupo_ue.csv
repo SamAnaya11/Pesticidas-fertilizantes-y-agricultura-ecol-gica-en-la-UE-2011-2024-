@@ -1,0 +1,5 @@
+grupo_riesgo,ponderacion,indice_2011,indice_2017,indice_2024
+Grupo 1: sustancias de bajo riesgo,1,108.0,159.0,297.0
+Grupo 2: sustancias aprobadas (resto),8,101.0,108.0,115.0
+Grupo 3: candidatas a sustitución,16,99.0,106.0,104.0
+Grupo 4: sustancias no aprobadas,64,112.0,78.0,3.0

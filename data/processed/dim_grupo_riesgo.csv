@@ -1,0 +1,5 @@
+codigo_grupo_riesgo,grupo_riesgo,ponderacion
+GRP1,Grupo 1: sustancias de bajo riesgo,1
+GRP2,Grupo 2: sustancias aprobadas (resto),8
+GRP3,Grupo 3: candidatas a sustitución,16
+GRP4,Grupo 4: sustancias no aprobadas,64

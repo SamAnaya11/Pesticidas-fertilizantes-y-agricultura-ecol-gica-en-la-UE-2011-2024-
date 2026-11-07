@@ -1,0 +1,28 @@
+periodo_dato,ranking,pais,año_dato,exceso_n_kg_ha,diferencia_media_reciente,aviso
+reciente (2020-2023),1,Países Bajos,2023,136.8,95.9,
+reciente (2020-2023),2,Italia,2023,57.8,16.9,
+reciente (2020-2023),3,Finlandia,2023,53.4,12.5,
+reciente (2020-2023),4,Eslovenia,2021,50.3,9.4,
+reciente (2020-2023),5,Croacia,2023,48.6,7.7,
+reciente (2020-2023),6,Hungría,2023,45.0,4.1,
+reciente (2020-2023),7,Bulgaria,2023,44.0,3.1,
+reciente (2020-2023),8,Chequia,2023,43.6,2.7,
+reciente (2020-2023),9,Suecia,2023,40.6,-0.3,
+reciente (2020-2023),10,España,2023,37.9,-3.0,
+reciente (2020-2023),11,Polonia,2023,36.9,-4.0,
+reciente (2020-2023),12,Portugal,2023,35.3,-5.6,
+reciente (2020-2023),13,Austria,2023,34.1,-6.8,
+reciente (2020-2023),14,Eslovaquia,2023,30.7,-10.2,
+reciente (2020-2023),15,Irlanda,2023,30.6,-10.3,
+reciente (2020-2023),16,Alemania,2023,26.1,-14.8,
+reciente (2020-2023),17,Letonia,2023,23.6,-17.3,
+reciente (2020-2023),18,Lituania,2023,22.8,-18.1,
+reciente (2020-2023),19,Francia,2023,18.4,-22.5,
+reciente (2020-2023),20,Rumanía,2020,1.1,-39.8,
+antiguo (2012-2015),1,Chipre,2015,194.0,153.1,estimado
+antiguo (2012-2015),2,Malta,2015,147.0,106.1,estimado
+antiguo (2012-2015),3,Bélgica,2015,132.0,91.1,estimado
+antiguo (2012-2015),4,Luxemburgo,2015,129.0,88.1,estimado
+antiguo (2012-2015),5,Dinamarca,2015,80.0,39.1,estimado
+antiguo (2012-2015),6,Grecia,2015,59.0,18.1,estimado
+antiguo (2012-2015),7,Estonia,2012,27.7,-13.2,

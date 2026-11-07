@@ -1,0 +1,51 @@
+{
+  "aei_fm_salpest09": {
+    "descripcion": "Ventas de pesticidas por tipo (kg)",
+    "url_api": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/aei_fm_salpest09/?format=TSV&compressed=true",
+    "url_web": "https://ec.europa.eu/eurostat/databrowser/view/aei_fm_salpest09/default/table",
+    "archivo": "data/raw/aei_fm_salpest09.tsv",
+    "fecha_descarga": "2026-11-07"
+  },
+  "aei_hri": {
+    "descripcion": "Indicador armonizado de riesgo de pesticidas (HRI1) por grupo de sustancias",
+    "url_api": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/aei_hri/?format=TSV&compressed=true",
+    "url_web": "https://ec.europa.eu/eurostat/databrowser/view/aei_hri/default/table",
+    "archivo": "data/raw/aei_hri.tsv",
+    "fecha_descarga": "2026-11-07"
+  },
+  "sdg_02_53": {
+    "descripcion": "Uso y riesgo de pesticidas químicos (índice 2015-2017 = 100)",
+    "url_api": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/sdg_02_53/?format=TSV&compressed=true",
+    "url_web": "https://ec.europa.eu/eurostat/databrowser/view/sdg_02_53/default/table",
+    "archivo": "data/raw/sdg_02_53.tsv",
+    "fecha_descarga": "2026-11-07"
+  },
+  "aei_fm_usefert": {
+    "descripcion": "Consumo de fertilizantes minerales (toneladas de nitrógeno y fósforo)",
+    "url_api": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/aei_fm_usefert/?format=TSV&compressed=true",
+    "url_web": "https://ec.europa.eu/eurostat/databrowser/view/aei_fm_usefert/default/table",
+    "archivo": "data/raw/aei_fm_usefert.tsv",
+    "fecha_descarga": "2026-11-07"
+  },
+  "aei_pr_gnb": {
+    "descripcion": "Balance bruto de nutrientes (nitrógeno y fósforo)",
+    "url_api": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/aei_pr_gnb/?format=TSV&compressed=true",
+    "url_web": "https://ec.europa.eu/eurostat/databrowser/view/aei_pr_gnb/default/table",
+    "archivo": "data/raw/aei_pr_gnb.tsv",
+    "fecha_descarga": "2026-11-07"
+  },
+  "sdg_02_40": {
+    "descripcion": "% de la superficie agraria utilizada que es ecológica",
+    "url_api": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/sdg_02_40/?format=TSV&compressed=true",
+    "url_web": "https://ec.europa.eu/eurostat/databrowser/view/sdg_02_40/default/table",
+    "archivo": "data/raw/sdg_02_40.tsv",
+    "fecha_descarga": "2026-11-07"
+  },
+  "apro_cpsh1": {
+    "descripcion": "Superficie agraria utilizada, SAU (miles de ha)",
+    "url_api": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/apro_cpsh1/A.UAA.MAR_THS_HA.?format=TSV&compressed=true",
+    "url_web": "https://ec.europa.eu/eurostat/databrowser/view/apro_cpsh1/default/table",
+    "archivo": "data/raw/apro_cpsh1.tsv",
+    "fecha_descarga": "2026-11-07"
+  }
+}

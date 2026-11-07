@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Base de datos (se genera con python main.py)
+database/
+*.db
+
+# Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

@@ -1,0 +1,37 @@
+codigo_pesticida,tipo_pesticida,nivel,codigo_grupo,grupo
+TOTAL,Total pesticidas,0,TOTAL,Total pesticidas
+F,Fungicidas y bactericidas,1,F,Fungicidas y bactericidas
+F01,"Fungicidas inorgánicos (cobre, azufre)",2,F,Fungicidas y bactericidas
+F02,Fungicidas de carbamatos y ditiocarbamatos,2,F,Fungicidas y bactericidas
+F03,Fungicidas de bencimidazoles,2,F,Fungicidas y bactericidas
+F04,Fungicidas de imidazoles y triazoles,2,F,Fungicidas y bactericidas
+F05,Fungicidas de morfolinas,2,F,Fungicidas y bactericidas
+F07,Bactericidas,2,F,Fungicidas y bactericidas
+F99,Otros fungicidas y bactericidas,2,F,Fungicidas y bactericidas
+H,Herbicidas,1,H,Herbicidas
+H01,Herbicidas fenoxi-fitohormonas,2,H,Herbicidas
+H02,Herbicidas de triazinas y triazinonas,2,H,Herbicidas
+H03,Herbicidas de amidas y anilidas,2,H,Herbicidas
+H04,Herbicidas de carbamatos y biscarbamatos,2,H,Herbicidas
+H05,Herbicidas derivados de dinitroanilina,2,H,Herbicidas
+H06,"Herbicidas derivados de urea, uracilo o sulfonilurea",2,H,Herbicidas
+H99,Otros herbicidas,2,H,Herbicidas
+I,Insecticidas y acaricidas,1,I,Insecticidas y acaricidas
+I01,Insecticidas piretroides,2,I,Insecticidas y acaricidas
+I02,Insecticidas de hidrocarburos clorados,2,I,Insecticidas y acaricidas
+I03,Insecticidas de carbamatos y oxima-carbamatos,2,I,Insecticidas y acaricidas
+I04,Insecticidas organofosforados,2,I,Insecticidas y acaricidas
+I06,Acaricidas,2,I,Insecticidas y acaricidas
+I99,Otros insecticidas,2,I,Insecticidas y acaricidas
+M,Molusquicidas,1,M,Molusquicidas
+M01,Molusquicidas,2,M,Molusquicidas
+PGR,Reguladores del crecimiento,1,PGR,Reguladores del crecimiento
+PGR01,Reguladores fisiológicos del crecimiento,2,PGR,Reguladores del crecimiento
+PGR02,Antigerminantes,2,PGR,Reguladores del crecimiento
+PGR03,Otros reguladores del crecimiento,2,PGR,Reguladores del crecimiento
+ZR,Otros fitosanitarios,1,ZR,Otros fitosanitarios
+ZR01,Aceites minerales,2,ZR,Otros fitosanitarios
+ZR02,Aceites vegetales,2,ZR,Otros fitosanitarios
+ZR03,Esterilizantes del suelo (incl. nematicidas),2,ZR,Otros fitosanitarios
+ZR04,Rodenticidas,2,ZR,Otros fitosanitarios
+ZR99,Resto de fitosanitarios,2,ZR,Otros fitosanitarios
